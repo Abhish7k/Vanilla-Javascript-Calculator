@@ -1,11 +1,11 @@
-<h1> Vanilla Javascript Calculator </h1>
+# Vanilla Javascript Calculator
 
-<p>
+Pure Vanilla Javascript Calculator using CSS Grid modern ES6 syntax and classes
 
-Live at : https://abhish7k.github.io/Vanilla-Javascript-Calculator/
+### **🌐 [Live Site](https://abhish7k.github.io/Vanilla-Javascript-Calculator/)**
 
-<br>
+## Tech Stack Used
 
-<img src="https://i.imgur.com/R8Mu1Ry.jpg" />
-
-</p>
+- HTML
+- CSS
+- Javascript
