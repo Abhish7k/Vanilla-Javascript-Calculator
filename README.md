@@ -9,3 +9,7 @@ Pure Vanilla Javascript Calculator using CSS Grid modern ES6 syntax and classes
 - HTML
 - CSS
 - Javascript
+
+## Image 
+
+<img src="https://i.imgur.com/R8Mu1Ry.jpg">
